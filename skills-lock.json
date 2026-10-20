@@ -19,6 +19,12 @@
       "skillPath": "skills/copywriting/SKILL.md",
       "computedHash": "b62e532dd34dc666288b241ea05e4e1f36f011d4f65d5d3129e85603064ac1c4"
     },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "913b9d37d0d54047dd65222bb8c67b2bf04e3cb87dcad1729068d7a8b2c8c396"
+    },
     "nano-banana-2": {
       "source": "inference-sh/skills",
       "sourceType": "github",
