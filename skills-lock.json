@@ -13,12 +13,6 @@
       "skillPath": "tools/video/ai-video-generation/SKILL.md",
       "computedHash": "24b338eea9c7fad5215b732c8395ccd2144d5400371cc09585776184df80e711"
     },
-    "brainstorming": {
-      "source": "obra/superpowers",
-      "sourceType": "github",
-      "skillPath": "skills/brainstorming/SKILL.md",
-      "computedHash": "fc6339f0e5b48c63279bd4f6c6340db55301b69ccc37a13e1e52bd5b3062746c"
-    },
     "copywriting": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
@@ -102,12 +96,6 @@
       "sourceType": "github",
       "skillPath": "skills/using-git-worktrees/SKILL.md",
       "computedHash": "48c8a1040e378e0cb7208107294e3afa9067b9370c3f33b49a443eb6b7528b0d"
-    },
-    "using-superpowers": {
-      "source": "obra/superpowers",
-      "sourceType": "github",
-      "skillPath": "skills/using-superpowers/SKILL.md",
-      "computedHash": "ef8670c2a2d8e2f6ed52d6f3219759903300ca13afc5ec2e25826a735112562b"
     },
     "verification-before-completion": {
       "source": "obra/superpowers",
